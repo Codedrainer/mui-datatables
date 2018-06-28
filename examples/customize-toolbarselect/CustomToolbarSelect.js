@@ -1,9 +1,9 @@
 import React from "react";
-import IconButton from "@material-ui/core/IconButton";
-import Tooltip from "@material-ui/core/Tooltip";
+import IconButton from "material-ui/IconButton";
+import Tooltip from "material-ui/Tooltip";
 import DeleteIcon from "@material-ui/icons/Delete";
 import FilterIcon from "@material-ui/icons/FilterList";
-import { withStyles } from "@material-ui/core/styles";
+import { withStyles } from "material-ui/styles";
 
 const defaultToolbarSelectStyles = {
   iconButton: {

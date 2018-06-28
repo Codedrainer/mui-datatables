@@ -1,8 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Checkbox from "@material-ui/core/Checkbox";
-import TableCell from "@material-ui/core/TableCell";
-import { withStyles } from "@material-ui/core/styles";
+import Checkbox from "material-ui/Checkbox";
+import TableCell from "material-ui/TableCell";
+import { withStyles } from "material-ui/styles";
 
 const defaultSelectCellStyles = {
   root: {

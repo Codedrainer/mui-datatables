@@ -2,9 +2,9 @@ import React from "react";
 import { spy, stub } from "sinon";
 import { mount, shallow } from "enzyme";
 import { assert, expect, should } from "chai";
-import TableRow from "@material-ui/core/TableRow";
-import TableFooter from "@material-ui/core/TableFooter";
-import TablePagination from "@material-ui/core/TablePagination";
+import TableRow from "material-ui/TableRow";
+import TableFooter from "material-ui/TableFooter";
+import TablePagination from "material-ui/TablePagination";
 import textLabels from "../src/textLabels";
 import MUIDataTablePagination from "../src/MUIDataTablePagination";
 

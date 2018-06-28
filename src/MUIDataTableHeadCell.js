@@ -1,10 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 import classNames from "classnames";
-import TableCell from "@material-ui/core/TableCell";
-import TableSortLabel from "@material-ui/core/TableSortLabel";
-import Tooltip from "@material-ui/core/Tooltip";
-import { withStyles } from "@material-ui/core/styles";
+import TableCell from "material-ui/TableCell";
+import TableSortLabel from "material-ui/TableSortLabel";
+import Tooltip from "material-ui/Tooltip";
+import { withStyles } from "material-ui/styles";
 
 const defaultHeadCellStyles = {
   tooltip: {

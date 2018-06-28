@@ -1,17 +1,17 @@
 import React from "react";
 import PropTypes from "prop-types";
 import classNames from "classnames";
-import Typography from "@material-ui/core/Typography";
-import FormControl from "@material-ui/core/FormControl";
-import FormGroup from "@material-ui/core/FormGroup";
-import FormControlLabel from "@material-ui/core/FormControlLabel";
-import InputLabel from "@material-ui/core/InputLabel";
-import Input from "@material-ui/core/Input";
-import MenuItem from "@material-ui/core/MenuItem";
-import Select from "@material-ui/core/Select";
-import Checkbox from "@material-ui/core/Checkbox";
-import ListItemText from "@material-ui/core/ListItemText";
-import { withStyles } from "@material-ui/core/styles";
+import Typography from "material-ui/Typography";
+import FormControl from "material-ui/FormControl";
+import FormGroup from "material-ui/FormGroup";
+import FormControlLabel from "material-ui/FormControlLabel";
+import InputLabel from "material-ui/InputLabel";
+import Input from "material-ui/Input";
+import MenuItem from "material-ui/MenuItem";
+import Select from "material-ui/Select";
+import Checkbox from "material-ui/Checkbox";
+import ListItemText from "material-ui/ListItemText";
+import { withStyles } from "material-ui/styles";
 
 export const defaultFilterStyles = {
   root: {

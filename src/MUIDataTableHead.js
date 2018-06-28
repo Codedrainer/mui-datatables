@@ -1,10 +1,10 @@
 import React from "react";
 import classNames from "classnames";
-import TableHead from "@material-ui/core/TableHead";
+import TableHead from "material-ui/TableHead";
 import MUIDataTableHeadRow from "./MUIDataTableHeadRow";
 import MUIDataTableHeadCell from "./MUIDataTableHeadCell";
 import MUIDataTableSelectCell from "./MUIDataTableSelectCell";
-import { withStyles } from "@material-ui/core/styles";
+import { withStyles } from "material-ui/styles";
 
 const defaultHeadStyles = {
   main: {},

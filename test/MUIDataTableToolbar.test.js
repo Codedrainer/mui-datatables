@@ -2,7 +2,7 @@ import React from "react";
 import { spy, stub } from "sinon";
 import { mount, shallow } from "enzyme";
 import { assert, expect, should } from "chai";
-import IconButton from "@material-ui/core/IconButton";
+import IconButton from "material-ui/IconButton";
 import SearchIcon from "@material-ui/icons/Search";
 import DownloadIcon from "@material-ui/icons/FileDownload";
 import PrintIcon from "@material-ui/icons/Print";

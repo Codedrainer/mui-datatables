@@ -1,11 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Checkbox from "@material-ui/core/Checkbox";
-import Typography from "@material-ui/core/Typography";
-import FormControl from "@material-ui/core/FormControl";
-import FormGroup from "@material-ui/core/FormGroup";
-import FormControlLabel from "@material-ui/core/FormControlLabel";
-import { withStyles } from "@material-ui/core/styles";
+import Checkbox from "material-ui/Checkbox";
+import Typography from "material-ui/Typography";
+import FormControl from "material-ui/FormControl";
+import FormGroup from "material-ui/FormGroup";
+import FormControlLabel from "material-ui/FormControlLabel";
+import { withStyles } from "material-ui/styles";
 
 export const defaultViewColStyles = {
   root: {
